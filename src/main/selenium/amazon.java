@@ -10,7 +10,7 @@ public class amazon {
     public static void main (String [] argd)
     {
         WebDriver driver;
-        System.setProperty("webdriver.chrome.driver","D:\\Mayank\\Selenium\\Selenium 2018\\Interviiew_Ques\\support\\chromedriver_92.0.exe");
+        System.setProperty("webdriver.chrome.driver","D:\\Mayank\\Selenium\\Selenium 2021\\Interview_Question\\support\\chromedriver_94.0.exe");
         ChromeOptions options = new ChromeOptions();
         //options.addArguments("--no sandbox");
         //options.setBinary("C:\\Program Files\\Google\\Chrome\\Application");
