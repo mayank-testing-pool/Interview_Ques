@@ -11,5 +11,6 @@ import java.util.List;
 import java.util.Set;
 
 public class webdriverInitialization {
+    //WebDriver driver1=new WebDriver();
     WebDriver driver = new ChromeDriver();
 }

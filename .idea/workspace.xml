@@ -1,18 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="28dd20fe-5c53-4208-8406-476e7464b0a9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/RemoveDuplicateFromArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/countSpecificCharOccurrence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/makingClassPrivate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TryToChangeStaticVariableValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lengthandlenghtmethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/removestaticfrommain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/countCharoccurrences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/countCharoccurrences.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/overridding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/overridding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/selenium/webdriverInitialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/selenium/webdriverInitialization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/Interview_Question.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CanWeOverloadConstructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CanWeOverloadConstructor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Interview_Questions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/amazon.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/amazon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/baseclass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baseclass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/class2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/class2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/countCharoccurrences.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/countCharoccurrences.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/flipkart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/flipkart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/nearestfaibonnumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nearestfaibonnumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/overloading.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/overloading.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/overridding$class_a.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/overridding$class_a.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/overridding$class_b.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/overridding$class_b.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/overridding.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/overridding.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/rearrangeArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/rearrangeArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/reverseString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/reverseString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/reverseWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/reverseWords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/support/chromedriver_2.41.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/support/chromedriver_92.0.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/Interview_Question.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/Interview_Questions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/support/chromedriver_2.41.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/support/chromedriver_92.0.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/Interview_Question.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/Interview_Questions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/support/chromedriver_2.41.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/support/chromedriver_92.0.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/.idea/Interview_Question.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/Interview_Questions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/support/chromedriver_2.41.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/support/chromedriver_92.0.exe" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,107 +77,6 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Interviiew_Ques$rearrangeArray.ic" NAME="rearrangeArray Coverage Results" MODIFIED="1631121743029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/overridding.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/reverseString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#1202#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/selenium/amazon.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/selenium/selectfromDropdownUsignActionclass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/selenium/findBrokenLinks.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/countCharoccurrences.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/makingClassPrivate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/RemoveDuplicateFromArrayList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#267#275#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/countSpecificCharOccurrence.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -164,13 +120,6 @@
       </list>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
   <component name="MavenProjectNavigator">
     <treeState>
       <expand>
@@ -188,7 +137,10 @@
     <option name="width" value="1260" />
     <option name="height" value="954" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="20VQsBfAGiqaInrltZoMinKgwJc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -231,12 +183,17 @@
       </pane>
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1634975316382" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -247,70 +204,64 @@
       <recent name="D:\Mayank\Selenium\Selenium 2018\Interviiew_Ques\src\main\Selenium" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.RemoveDuplicateFromArrayList">
-    <configuration name="RemoveDuplicateFromArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RemoveDuplicateFromArrayList" />
-      <module name="Interview_Question" />
+  <component name="RunManager" selected="Application.overridding">
+    <configuration name="TryToChangeStaticVariableValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TryToChangeStaticVariableValue" />
+      <module name="Interviiew_Ques" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="countCharoccurrences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="countCharoccurrences" />
-      <module name="Interview_Question" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="countSpecificCharOccurrence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="countSpecificCharOccurrence" />
-      <module name="Interview_Question" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="findBrokenLinks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.main.selenium.findBrokenLinks" />
-      <module name="Interview_Question" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.main.selenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="lengthandlenghtmethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lengthandlenghtmethod" />
+      <module name="Interviiew_Ques" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="makingClassPrivate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk-17.0.1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="makingClassPrivate" />
-      <module name="Interview_Question" />
+      <module name="Interviiew_Ques" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="overridding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="overridding" />
+      <module name="Interviiew_Ques" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="removestaticfrommain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="removestaticfrommain" />
+      <module name="Interviiew_Ques" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.makingClassPrivate" />
+      <item itemvalue="Application.lengthandlenghtmethod" />
+      <item itemvalue="Application.removestaticfrommain" />
+      <item itemvalue="Application.overridding" />
+      <item itemvalue="Application.TryToChangeStaticVariableValue" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RemoveDuplicateFromArrayList" />
+        <item itemvalue="Application.overridding" />
+        <item itemvalue="Application.TryToChangeStaticVariableValue" />
+        <item itemvalue="Application.removestaticfrommain" />
+        <item itemvalue="Application.lengthandlenghtmethod" />
         <item itemvalue="Application.makingClassPrivate" />
-        <item itemvalue="Application.countCharoccurrences" />
-        <item itemvalue="Application.countSpecificCharOccurrence" />
-        <item itemvalue="Application.findBrokenLinks" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
